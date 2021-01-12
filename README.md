@@ -6,7 +6,9 @@
 ## Blog project with Python Django
 To run the code, you must first open it in the compiler, then to the terminal respectively ; -->
 python manage.py runserver after that in any browser you must go to this address ;
+### To Run
 localhost:8000  If this does not work for you, you can add many alternatives to this number.
+
 To access the admin panel ; localhost:8000/admin
 
 
